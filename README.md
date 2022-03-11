@@ -1,2 +1,2 @@
-# SMBS
-SUPERMARKET BILLING SYSTEM USING DATA STRUCTURES
+# Supermarket Billing System
+Refer the above report for further reference
